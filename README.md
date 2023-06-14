@@ -6,5 +6,6 @@ Cada aula foi detalhada em arquivos .md (markdown) com um passo a passo do que f
 2. [Aula 02 Organizar projeto, criar página Home e componentes](https://github.com/edsonmaia/portfolio/blob/main/instrucoes/aula02.md)
 3. [Aula 03 Criar Rotas, Páginas e Links no React JS](https://github.com/edsonmaia/portfolio/blob/main/instrucoes/aula03.md)
 4. [Aula 04 Criar componente Container e Página 404](https://github.com/edsonmaia/portfolio/blob/main/instrucoes/aula04.md)
+5. [Aula 05 Ícones no React Js e Página Contatos](https://github.com/edsonmaia/portfolio/blob/main/instrucoes/aula05.md)
 
 Salve Devs, até a próxima!
