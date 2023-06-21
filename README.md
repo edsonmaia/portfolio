@@ -9,5 +9,7 @@ Cada aula foi detalhada em arquivos .md (markdown) com um passo a passo do que f
 5. [Aula 05 Ícones no React Js e Página Contatos](https://github.com/edsonmaia/portfolio/blob/main/instrucoes/aula05.md)
 6. [Aula 06 Rotas aninhadas no React JS com o react router dom](https://github.com/edsonmaia/portfolio/blob/main/instrucoes/aula06.md)
 7. [Aula 07 Página Sobre](https://github.com/edsonmaia/portfolio/blob/main/instrucoes/aula07.md)
+8. [Aula 08 Componente Card de Projetos](https://github.com/edsonmaia/portfolio/blob/main/instrucoes/aula08.md)
 
 Salve Devs, até a próxima!
+
