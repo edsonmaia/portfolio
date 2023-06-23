@@ -122,6 +122,18 @@ export default Card
 
 3. Salve as alterações e veja o resultado no browser.
 
+> Para links externos é mais recomendável o uso da tag a com href={html_url}, target='_blank' e rel='noopener noreferrer'
+> O trecho do código do Card deveria ficar assim:
+
+~~~javascript
+    <a
+        href={html_url}
+        className={styles.botao}
+        target="_blank"
+        rel="noopener noreferrer">
+        <BsArrowRight />
+    </a>
+~~~
 
 ## E os ícones das linguagens?
 
