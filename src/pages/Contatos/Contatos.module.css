@@ -20,3 +20,18 @@
     font-size: 3rem;
     color: var(--red);
 }
+
+/* responsividade extra 02 */
+/* tablet */
+@media (max-width: 768px) {
+    .contatos {
+        text-align: center;
+        padding-inline: 20px;
+    }
+}
+
+@media (max-width: 480px) {
+    .icones {
+        gap: 0.5rem;
+    }
+}

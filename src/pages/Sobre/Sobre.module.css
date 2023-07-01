@@ -5,6 +5,8 @@
     flex-direction: column;
     align-items: center;
     justify-content: center;
+    /* responsividade extra 02 */
+    padding-block: 40px;
 }
 
 .bio {
@@ -45,4 +47,27 @@
 
 .icones img {
     height: 50px;
+}
+
+/* responsividade extra 02 */
+/* tablet */
+@media (max-width: 768px) {
+    .bio {
+        flex-direction: column;
+        padding-inline: 20px;
+        gap: 1rem;
+    }
+    .bio img {
+        max-width: 50%;
+    }
+}
+
+/* mobile m */
+@media (max-width: 480px) {
+    .icones {
+        gap: 0.5rem;
+    }
+    .icones img {
+        height: 40px;
+    }
 }

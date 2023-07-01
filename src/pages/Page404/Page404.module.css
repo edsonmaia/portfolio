@@ -1,5 +1,16 @@
+/* responsividade extra 02 */
+.page404 {
+    width: 100%;
+    height: 85vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
 .titulo2 {
     padding-top: 2rem;
+    text-align: center; /* extra 02 */
 }
 
 .textos {
@@ -17,4 +28,16 @@
 
 .texto_vermelho {
     font-size: 1.5rem;
+}
+
+/* responsividade */
+
+/* tablet */
+@media (max-width: 768px) {
+    .texto_grande {
+        font-size: 150px;
+    }
+    .texto_vermelho {
+        font-size: 1rem;
+    }
 }
