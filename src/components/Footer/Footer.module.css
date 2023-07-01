@@ -9,4 +9,7 @@
     display: flex;
     align-items: center;
     justify-content: center;
+    /* aula 11 extra 01 */
+    position: fixed;
+    bottom: 0;
 }
