@@ -13,5 +13,6 @@ Cada aula foi detalhada em arquivos .md (markdown) com um passo a passo do que f
 9. [Aula 09 Consumir API do Github + Página Projetos](https://github.com/edsonmaia/portfolio/blob/main/instrucoes/aula09.md)
 10. [Aula 10 Deploy na Vercel + Ajuste no Projeto](https://github.com/edsonmaia/portfolio/blob/main/instrucoes/aula10.md)
 E1. [Extra 01 Responsividade](https://github.com/edsonmaia/portfolio/blob/main/instrucoes/e01.md)
+E2. [Extra 02 Responsividade](https://github.com/edsonmaia/portfolio/blob/main/instrucoes/e02.md)
 
 Salve Devs, até a próxima!
