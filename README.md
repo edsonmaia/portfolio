@@ -14,5 +14,6 @@ Cada aula foi detalhada em arquivos .md (markdown) com um passo a passo do que f
 10. [Aula 10 Deploy na Vercel + Ajuste no Projeto](https://github.com/edsonmaia/portfolio/blob/main/instrucoes/aula10.md)
 11. [Extra 01 Responsividade](https://github.com/edsonmaia/portfolio/blob/main/instrucoes/e01.md)
 12. [Extra 02 Responsividade](https://github.com/edsonmaia/portfolio/blob/main/instrucoes/e02.md)
+13. [Extra 03 Menu Sandwich](https://github.com/edsonmaia/portfolio/blob/main/instrucoes/e03.md)
 
 Salve Devs, até a próxima!
